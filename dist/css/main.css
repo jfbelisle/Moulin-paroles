@@ -1,0 +1,12 @@
+/* Pour dégager la hauteur du menu */
+.section{
+	padding-top: 50px;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+a.btn-default.toTop{
+	color: #ccc;
+}
